@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: grey;
+     font-family:verdana;
+  }
+body {
+        background: rgb(37, 37, 37);
+        
+      }
+      
+.main {
+        height: 35%;
+        width: 400px;
+        margin: auto;
+        background: white;
+        padding: 20px;
+        border-radius: 25px;
+        text-align: center;
+  }
+footer{
+    text-align: center;
+    color: aliceblue;
+}
